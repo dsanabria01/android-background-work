@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Foreground Audio</string>
+    <string name="channel_name">canal_audio</string>
+</resources>

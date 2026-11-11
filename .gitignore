@@ -1,0 +1,18 @@
+# Gradle / Android Studio
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local media for the mock server (add your own sample.mp3 / sample.png)
+tools/media/audio/*
+!tools/media/audio/.gitkeep
